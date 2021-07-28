@@ -1,2 +1,5 @@
 # hello-world
-How to say hello
+
+Hello Earthlings,
+
+I am Kihuruta. I am a beginner programmer who really likes Python. 
